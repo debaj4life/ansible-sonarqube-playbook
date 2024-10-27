@@ -1,0 +1,12 @@
+---
+roles:
+  - src: git@github.com:debaj4life/ansible-java-role.git
+    name: ansible-java-role
+    scm: git
+    version: main
+
+  - src: git@github.com:debaj4life/ansible-sonarqube-role.git
+    name: ansible-sonarqube-role
+    scm: git
+    version: main
+
